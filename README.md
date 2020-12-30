@@ -76,3 +76,4 @@ cd ./dist
 3. Выравнивание
 
 # Aurora_for_tests
+# Aurora_for_tests
